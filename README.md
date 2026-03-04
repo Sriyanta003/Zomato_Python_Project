@@ -65,6 +65,7 @@ git clone https://github.com/Sriyanta003/Zomato_Python_Project.git
 pip install pandas numpy matplotlib seaborn
 
 3.Open the Jupyter Notebook
+
 4.Run all cells to reproduce the analysis.
 
 👨‍💻 Author
